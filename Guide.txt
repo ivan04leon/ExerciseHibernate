@@ -1,0 +1,4 @@
+Create a new Web Dynamic Project
+
+create a new src folder (hibernateProperties)
+create a XML in (hibernateProperties) opcion template al crear
